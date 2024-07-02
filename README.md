@@ -13,10 +13,13 @@ Responsive design for seamless user experience
 
 # Installation
 npm install
+
 cd server && npm install
+
 npm start
 
 
 # Screenshots
 
-![image](https://github.com/sagarsapre38/Annadann/assets/76427049/ae05640b-17a8-4950-be16-a7b87d9ae425)
+![image](https://github.com/sagarsapre38/Annadann/assets/76427049/ae05640b-17a8-4950-be16-a7b87d9ae425) ![image](https://github.com/sagarsapre38/Annadann/assets/76427049/5d95d74b-58ce-4b9b-9a01-5c06b0fb40f8)
+
